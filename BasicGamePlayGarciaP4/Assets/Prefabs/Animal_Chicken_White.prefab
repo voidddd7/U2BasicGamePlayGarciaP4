@@ -437,10 +437,10 @@ GameObject:
   - component: {fileID: 1832456846586571447}
   - component: {fileID: 8399948442383606706}
   - component: {fileID: 7211854352872181773}
-  - component: {fileID: 883835399511123517}
+  - component: {fileID: 1936736676996282449}
   m_Layer: 0
   m_Name: Animal_Chicken_White
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -501,7 +501,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7cd7f2b0cdeaf8418762fc501d2c83a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 10
 --- !u!114 &8399948442383606706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -533,9 +533,9 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 8.639959, y: 16.59325, z: 19.430391}
-  m_Center: {x: 0.73783404, y: 7.7966423, z: 0.8546865}
---- !u!114 &883835399511123517
+  m_Size: {x: 8.639959, y: 22.470179, z: 19.430391}
+  m_Center: {x: 0.737834, y: 10.735108, z: 0.8546862}
+--- !u!114 &1936736676996282449
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

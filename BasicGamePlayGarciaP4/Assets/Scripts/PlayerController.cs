@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     public float verticalInput;
 
     public Transform projectileSpawnPoint;
+
     // Start is called before the first frame update
     void Start()
     {
